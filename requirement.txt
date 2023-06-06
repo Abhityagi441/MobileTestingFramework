@@ -1,0 +1,9 @@
+-- Present framework and script code.
+1 . I want to see that the Appium framework in a working state with any simple app
+-- Show execution.
+2 . I want to basically see a demo of the test running on Appium
+
+--Not required below point as first and second point are working.
+3 . If he’s not able to accomplish the running state, I want to see the code for at
+    least 3 test scripts with dummy locators associated and then he should be able to
+    walk through the tests and framework.
